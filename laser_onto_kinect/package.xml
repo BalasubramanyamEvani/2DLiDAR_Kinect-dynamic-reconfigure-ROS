@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>laser_onto_kinect</name>
+  <version>0.0.0</version>
+  <description>The laser_onto_kinect package</description>
+
+  <maintainer email="balasubramanyam.evani@gmail.com">Balasubramanyam Evani</maintainer>
+
+  <license>MIT</license>
+
+
+  <author email="balasubramanyam.evani@gmail.com">Balasubramanyam Evani</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>dynamic_reconfigure</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>tf</build_depend>
+  
+  <build_export_depend>dynamic_reconfigure</build_export_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <build_export_depend>tf</build_export_depend>
+  
+  <exec_depend>dynamic_reconfigure</exec_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>tf</exec_depend>
+
+
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
