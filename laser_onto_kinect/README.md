@@ -7,4 +7,4 @@ package in ROS.
 
 2) Open Rviz and visualize the change that occurs while changing the values in the reconfigure_guis.
 
-![alt text](screenshots/tf_laserCam.png "Screenshot")
+![alt text](screenshot/tf_laserCam.png "Screenshot")
